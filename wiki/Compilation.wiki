@@ -3,14 +3,14 @@
 
 = ARM9 Compilation =
 
-* You need to get the last svn version of [htt://pjsip.org pjsip].
-* You need to download the patch for pjsip
-* Apply the patch
+  # You need to get the last svn version of [htt://pjsip.org pjsip].
+  # You need to download the patch for pjsip
+  # Apply the patch
 {{{
    patch -p0
 }}}
-* Define in compile.sh the path of DEVKITPRO and DEVKITARM
-* compile
+  # Define in compile.sh the path of DEVKITPRO and DEVKITARM
+  # compile
 {{{
    ./compile.sh
 }}}
