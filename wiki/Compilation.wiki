@@ -10,7 +10,7 @@
    patch -p0 < 'patch - pjsip-nds - 20090305.txt'
 }}}
   # Define in compile.sh the path of DEVKITPRO and DEVKITARM
-  # compile
+  # Compile
 {{{
    ./compile.sh
 }}}
