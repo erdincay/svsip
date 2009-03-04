@@ -4,7 +4,7 @@
 = ARM9 Compilation =
 
   # You need to get the last svn version of [http://pjsip.org pjsip].
-  # You need to download the patch for pjsip
+  # You need to download the [http://svsip.googlecode.com/files/patch%20-%20pjsip-nds%20-%2020090305.txt.zip patch] for pjsip
   # Apply the patch
 {{{
    patch -p0
